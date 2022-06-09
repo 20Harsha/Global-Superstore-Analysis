@@ -7,7 +7,9 @@ Using Tableau, Story has been created to solve the global superstore case study
 * Before analyzing the data the quality of the data has been checked using python.
 * Using Business Intelligence tool Tableau the Global Superstore Story has been created. The story consist of relevant worksheets and an interactive dashboard to solve the case study where user can interact with the story created to find answers to the business questions.
 
-**View the tableau story here :** 
+**View the tableau story here :** https://public.tableau.com/views/Globalsuperstoreanalysis_16545405841970/Story?:language=en-US&:display_count=n&:origin=viz_share_link
+
+**Youtube link for case study explanation :** https://youtu.be/oQTkR9xP4ps
 
 ## **Finding answers to the following questions** : 
 
@@ -99,6 +101,6 @@ We could basically select top 1 country with in the slider so we get to know tha
 # **Tableau dashboard** 
 ![dashboard](https://user-images.githubusercontent.com/87359806/172662060-87590db6-780c-4f90-80be-5930a4d66b1e.PNG)
 
-**View the tableau story here :** 
+**View the tableau story here :** https://public.tableau.com/views/Globalsuperstoreanalysis_16545405841970/Story?:language=en-US&:display_count=n&:origin=viz_share_link 
 
 
