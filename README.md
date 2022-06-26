@@ -1,7 +1,7 @@
 # Global Superstore Analysis
 Using Tableau, Story has been created to solve the global superstore case study
 
-* **Problem Statement** : Global Superstore has been going through loss in the products sold. Identify Market as well as country wise loss & find products in which sub-category are in loss in those countries.
+* **Problem Statement :** Global Superstore has been going through loss in the products sold. Identify Market as well as country wise loss & find products in which sub-category are in loss in those countries.
 
 * The Global Superstore dataset consist of 20 columns and 51,281 rows. 
 * Before analyzing the data the quality of the data has been checked using python.
