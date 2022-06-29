@@ -11,7 +11,7 @@ Using Tableau, Story has been created to solve the global superstore case study
 
 **Youtube link for case study explanation :** https://youtu.be/oQTkR9xP4ps
 
-## **Finding answers to the following questions** : 
+## **Finding answers to the following questions**: 
 
 **Q.1) Market wise analyze the profit for subcategories?**
 
