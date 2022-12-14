@@ -98,7 +98,7 @@ Ans.
 
 We could basically select top 1 country with in the slider so we get to know that turkey was going through maximum loss with negative profit of -$98K .So in the dashboard when we click on turkey we could see all information regarding that country. Phones, Storage, Chairs, Book cases are in huge loss. The average discount recorded for turkey is 60% which is huge so that might be the reason for loss that has occurred as well average profit is -$71.44 & Sales are $2.19.
 
-# **Tableau dashboard** 
+# **Tableau dashboard**
 ![dashboard](https://user-images.githubusercontent.com/87359806/172662060-87590db6-780c-4f90-80be-5930a4d66b1e.PNG)
 
 **View the tableau story here :** https://public.tableau.com/views/Globalsuperstoreanalysis_16545405841970/Story?:language=en-US&:display_count=n&:origin=viz_share_link 
